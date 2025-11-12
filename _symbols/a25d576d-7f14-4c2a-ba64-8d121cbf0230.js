@@ -1,4 +1,4 @@
-// Site Header - small - Updated August 5, 2025
+// Site Header - small - Updated November 12, 2025
 function noop() { }
 function assign(tar, src) {
     // @ts-ignore
